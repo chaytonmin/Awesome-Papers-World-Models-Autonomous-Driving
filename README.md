@@ -6,6 +6,9 @@
 
 ### World model can be trained quickly in an unsupervised manner to learn a compressed spatial and temporal representation of the environment. (World Models, 2018)
 
+#### 1989
++ Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](https://ieeexplore.ieee.org/abstract/document/30720)]
+
 #### 2018
 + World Models [[paper](https://arxiv.org/abs/1803.10122)] [[Project](https://worldmodels.github.io/)]
 + Recurrent world models facilitate policy evolution [[paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
