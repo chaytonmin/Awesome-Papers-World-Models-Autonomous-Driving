@@ -1,4 +1,4 @@
-<img src="/docs/world_model.png" width="100%"/>
+<img src="/docs/world_model.png" width="50%"/>
 
 ### The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government or country. He has only selected concepts, and relationships between them, and uses those to represent the real system. (Forrester, 1971)
 
