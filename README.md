@@ -13,6 +13,9 @@
 #### 2019
 + Contrastive Learning of Structured World Models [[paper](https://arxiv.org/abs/1911.12247)]
 
+#### 2020
++ DreamerV2: Mastering atari with discrete world models [[paper](https://arxiv.org/pdf/2010.02193.pdf)]
+
 #### 2022
 + Yann LeCun: A Path Towards Autonomous Machine Intelligence [[paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)] [[Video](https://www.youtube.com/watch?v=OKkEdTchsiE)]
 
