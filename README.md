@@ -26,5 +26,6 @@
 #### 2023
 + Mastering Diverse Domains through World Models [[paper](https://arxiv.org/abs/2301.04104)] [[Project](https://danijar.com/project/dreamerv3/)]
 + DayDreamer: World Models for Physical Robot Learning [[paper](https://proceedings.mlr.press/v205/wu23c.html)]
-+ Tesla CVPR 2023 workshop [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
 + FOCUS: Object-Centric World Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2307.02427.pdf)]
++ Tesla CVPR 2023 workshop [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
++ UniWorld: Multi-camera Spatio-temporal Pre-Training via World Models[[github](https://github.com/chaytonmin/UniWorld)]
