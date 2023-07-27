@@ -6,6 +6,8 @@
 
 ### World model can be trained quickly in an unsupervised manner to learn a compressed spatial and temporal representation of the environment. (World Models, 2018)
 
+### Occupancy grid itself provides a stochastic spatial world model. The resulting geometric world models serve as the underlying representation for other robotic tasks, such as obstacle avoidance, path planning and navigation, or planning of grasping and assembly operations.  (Using Occupancy Grids for Mobile Robot Perception and Navigation, 1989)
+
 #### 1989
 + Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
 
