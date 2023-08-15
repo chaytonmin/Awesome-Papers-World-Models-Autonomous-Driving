@@ -31,4 +31,4 @@
 + FOCUS: Object-Centric World Models for Robotics Manipulation [[paper](https://arxiv.org/pdf/2307.02427.pdf)]
 + Tesla CVPR 2023 workshop [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
 + Wayve GAIA-1 [[blog](https://wayve.ai/thinking/introducing-gaia1/)]
-+ UniWorld: Multi-camera Spatio-temporal Pre-Training via World Models[[github](https://github.com/chaytonmin/UniWorld)]
++ UniWorld: Autonomous Driving Pre-training via World Models [[paper](https://arxiv.org/abs/2308.07234)][[github](https://github.com/chaytonmin/UniWorld)]
