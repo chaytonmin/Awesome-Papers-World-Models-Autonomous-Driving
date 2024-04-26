@@ -1,8 +1,8 @@
 <p align="center">
-<img src="/docs/world_model.png" width="50%"/>World_Model
+<img src="/docs/world_model.png" width="30%"/>World_Model
 </p>
 
-#### Neural Driving Simulator
+### Neural Driving Simulator
 #### 2D Scene Generation
 + (2023) Gaia-1: A generative world model for autonomous driving [[paper](https://arxiv.org/abs/2309.17080)][[Blog](https://wayve.ai/thinking/scaling-gaia-1/)]
 
