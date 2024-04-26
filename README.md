@@ -4,16 +4,17 @@
 
 ### Neural Driving Simulator
 #### 2D Scene Generation
-+ (2023 arxiv) (Wayve) Gaia-1: A generative world model for autonomous driving [[paper](https://arxiv.org/abs/2309.17080)][[Blog](https://wayve.ai/thinking/scaling-gaia-1/)]
-+ (2023 CVPR 2023 workshop) (Tesla)  [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
-+ (2023 arxiv) (GigaAI) DriveDreamer
-+ (2024 arxiv) (GigaAI) DriveDreamer-2
-+ (2023) ADriver-I
-+ (2023) Panacea
-+ (2023) Drive-WM
-+ (2023) WoVoGen
-+ (2024) SubjectDrive
-+ (2024) GenAD
++ (2023 Arxiv) (Wayve) Gaia-1: A generative world model for autonomous driving [[Paper](https://arxiv.org/abs/2309.17080)][[Blog](https://wayve.ai/thinking/scaling-gaia-1/)]
++ (2023 CVPR 2023 workshop) (Tesla) [[Video](https://www.youtube.com/watch?v=6x-Xb_uT7ts)]
++ (2023 Arxiv) (GigaAI) DriveDreamer [[Paper](https://drivedreamer.github.io/)][[Code](https://github.com/JeffWang987/DriveDreamer)]
++ (2023 Arxiv) (MEGVII) ADriver-I [[Paper](https://arxiv.org/abs/2311.13549)]
++ (2023 Arxiv) (Baidu) DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model [[Paper](https://arxiv.org/abs/2310.07771)]
++ (2023 Arxiv) (MEGVII) Panacea [[Paper](https://panacea-ad.github.io/)][[Code](https://github.com/wenyuqing/panacea)]
++ (2024 CVPR) (CASIA) Drive-WM [[Paper](https://drive-wm.github.io/)][[Code](https://github.com/BraveGroup/Drive-WM)]
++ (2023 Arxiv) (Fudan) WoVoGen:World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation [[Paper](https://arxiv.org/abs/2312.02934)]
++ (2024 Arxiv) (GigaAI) DriveDreamer-2 [[Paper](https://drivedreamer2.github.io/)][[Code](https://github.com/f1yfisher/DriveDreamer2)]
++ (2024 CVPR) (Shanghai AI Lab) GenAD: Generalized Predictive Model for Autonomous Driving [[Paper](https://arxiv.org/abs/2403.09630)][[Code](https://github.com/OpenDriveLab/DriveAGI?tab=readme-ov-file)]
++ (2024 Arxiv) (MEGVII) SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control [[Paper](https://subjectdrive.github.io/)]
 
 #### 3D Scene Generation
 + (2023) Copilot4D
