@@ -1,17 +1,13 @@
-### The image of the world around us, which we carry in our head, is just a model. Nobody in his head imagines all the world, government or country. He has only selected concepts, and relationships between them, and uses those to represent the real system. (Forrester, 1971)
-
 <p align="center">
 <img src="/docs/world_model.png" width="50%"/>World_Model
 </p>
 
-### World model can be trained quickly in an unsupervised manner to learn a compressed spatial and temporal representation of the environment. (World Models, 2018)
-
-### Occupancy grid itself provides a stochastic spatial world model. The resulting geometric world models serve as the underlying representation for other robotic tasks, such as obstacle avoidance, path planning and navigation, or planning of grasping and assembly operations.  (Using Occupancy Grids for Mobile Robot Perception and Navigation, 1989)
-
-#### 1989
-+ Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
+#### Neural Driving Simulator
+#### 2D Scene Generation
++ (2023) Gaia-1: A generative world model for autonomous driving [[paper](https://arxiv.org/abs/2309.17080)][[Blog](https://wayve.ai/thinking/scaling-gaia-1/)]
 
 #### 2018
++ Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
 + World Models [[paper](https://arxiv.org/abs/1803.10122)] [[Project](https://worldmodels.github.io/)]
 + Recurrent world models facilitate policy evolution [[paper](https://proceedings.neurips.cc/paper/2018/hash/2de5d16682c3c35007e4e92982f1a2ba-Abstract.html)]
 
