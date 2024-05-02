@@ -1,10 +1,10 @@
 <p align="center">
-<img src="/docs/world_model_ad.png" width="80%"/>
+<img src="/docs/wm_ad.png" width="80%"/>
 </p>
 
 #### World Models are adept at representing an agent's spatio-temporal knowledge about its environment through the prediction of future changes. 
 
-#### There are two main types of world models in autonomous driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving. 
+#### There are two main types of world models in Autonomous Driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving. 
 
 #### In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities. 
 
