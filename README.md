@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/docs/world_model.png" width="30%"/>
+<img src="/docs/world_model_ad.png" width="30%"/>
 </p>
 
 #### World Models are adept at representing an agent's spatio-temporal knowledge about its environment through the prediction of future changes. There are two main types of world models in autonomous driving aimed at reducing driving uncertainty, i.e., World Model as Neural Driving Simulator and World Model for End-to-end Driving. In the real environment, methods like GAIA-1 and Copilot4D involve utilizing generative models to construct neural simulators that produce 2D or 3D future scenes to enhance predictive capabilities. In the simulation environment, methods such as MILE and TrafficBots are based on reinforcement learning, enhancing their capacity for decision-making and future prediction, thereby paving the way to end-to-end autonomous driving.
@@ -38,3 +38,15 @@
 
 ### Others
 + (1989) Using Occupancy Grids for Mobile Robot Perception and Navigation [[paper](http://www.sci.brooklyn.cuny.edu/~parsons/courses/3415-fall-2011/papers/elfes.pdf)]
+
+## Contact
+If you find our survey is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+
+```
+@article{generalworldmodelsurvey,
+  title={Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond},
+  author={Zheng Zhu and Xiaofeng Wang and Wangbo Zhao and Chen Min and Nianchen Deng and Min Dou and Yuqi Wang and Botian Shi and Kai Wang and Chi Zhang and Yang You and Zhaoxiang Zhang and Dawei Zhao and Liang Xiao and Jian Zhao and Jiwen Lu and Guan Huang}, 
+  journal={arXiv preprint arXiv:TODO},
+  year={2024}
+}
+```
